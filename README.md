@@ -2,7 +2,6 @@
 - 👀 I’m interested in becoming a fullstack dev as well as a game designer.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on just about anything! I'm eager to gain more experience any way I can.
-- 📫 How to reach me (DO THIS LATER)
 
 <!---
 Showcxse/Showcxse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
